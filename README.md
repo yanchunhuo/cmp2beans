@@ -127,4 +127,4 @@ public class Dog {
 ```
 
 ##Weibo
-weibo:[@孔子日的对](http://weibo.com/zwsq123/)
+[@孔子日的对](http://weibo.com/zwsq123/)
