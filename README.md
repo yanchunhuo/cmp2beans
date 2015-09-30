@@ -12,7 +12,6 @@ Compare two java beans with java Reflection.
 * 支持正则比较两个字符串
 * 支持只比较字符串
 
-
 * Compare two java beans
 * Support regular string comparison 
 * Support only compare string in two beans.
