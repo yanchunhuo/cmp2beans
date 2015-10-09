@@ -42,6 +42,9 @@ public class Run {
 }
 ```
 ```java
+结果(result):Exception in thread "main" java.lang.Exception: Class[Cat] Attributes[age] Mismatch;source[3],target[2]
+```
+```java
 public class Host {
     public String name;
 	public int age;
