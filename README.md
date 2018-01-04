@@ -1,13 +1,13 @@
 
 
-#cmp2beans
+# cmp2beans
 
-##What
+## What
 利用java的反射机制，比较两个实体类的属性值是否相等，字符串支持正则表达式匹配，同时支持只对两个实体类的字符类型进行比较。
 
 Compare two java beans with java Reflection.
 
-##Features
+## Features
 * 比较两个实体类的属性值是否相等
 * 支持正则比较两个字符串
 * 支持只比较字符串
@@ -16,7 +16,7 @@ Compare two java beans with java Reflection.
 * Support regular string comparison 
 * Support only compare string in two beans.
 
-##Demo
+## Demo
 ```java
 public class Run {
     public static void main(String[] args) throws Exception {
@@ -129,5 +129,5 @@ public class Dog {
 }
 ```
 
-##Weibo
+## Weibo
 [@孔子日的对](http://weibo.com/zwsq123/)
