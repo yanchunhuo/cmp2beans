@@ -131,3 +131,6 @@ public class Dog {
 
 ## Weibo
 [@孔子日的对](http://weibo.com/zwsq123/)
+
+## Donation
+![avatar](https://github.com/yanchunhuo/resources/blob/master/Alipay.jpg)
